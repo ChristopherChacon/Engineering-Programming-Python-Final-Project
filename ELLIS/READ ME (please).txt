@@ -1,0 +1,9 @@
+Hello there,
+
+Welcome to my contribution to the project. If you wish to run the .ipynb files, youll have to ensure all the path variables are pointing to the right place.
+I wrote all of this in Google Colab and had the files stored in my drive. The paths you see are "my best guess" at where the files will be for you. 
+
+If you have questions you can email me at sellis1@stevens.edu
+
+Enjoy,
+Sam 
